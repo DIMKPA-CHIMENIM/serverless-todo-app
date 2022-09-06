@@ -7,6 +7,6 @@ This project is a serverless application that allows users upload photos like In
 - Auth0  for authorization
 
 # Useful Commmands
-## node -v check node version
-## serverless --version
-## serverless login
+- node -v check node version
+- serverless --version
+- serverless login
